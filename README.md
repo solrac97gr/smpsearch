@@ -130,22 +130,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Authors
 
 - Carlos Garcia ([@solrac97gr](https://github.com/solrac97gr))
-```
 
-This README.md provides:
-1. A clear description of the project
-2. Installation instructions
-3. Usage examples with different query types
-4. Available operators and aggregation types
-5. Contributing guidelines
-6. Testing instructions
-7. License information
-8. Author information
-
-You may want to add more sections like:
-- Detailed API documentation
-- More complex examples
-- Performance considerations
-- Known limitations
-- Changelog
-- Dependencies
